@@ -1,4 +1,4 @@
-import newsimage from "../assets/screenshot.jpg";
+import newsimage from "../assets/Screenshot.jpg";
 export default function Card({title,description,src,url}){
     return(
       
